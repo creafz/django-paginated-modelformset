@@ -1,0 +1,7 @@
+[run]
+branch = True
+include =
+    paginated_modelformset/*
+omit =
+    paginated_modelformset/tests/tests.py
+    paginated_modelformset/tests/models.py
