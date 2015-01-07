@@ -38,5 +38,4 @@ if django.VERSION[:2] >= (1, 7):
     django.setup()
 
 
-if __name__ == "__main__":
-    call_command('test', 'paginated_modelformset.tests')
+call_command('test', 'paginated_modelformset.tests')
