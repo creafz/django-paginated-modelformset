@@ -2,6 +2,16 @@
 django-paginated-modelformset
 =============================
 
+.. image:: https://pypip.in/version/django-paginated-modelformset/badge.svg
+    :target: https://pypi.python.org/pypi/django-paginated-modelformset/
+    :alt: Latest Version
+
+.. image:: https://travis-ci.org/creafz/django-paginated-modelformset.svg?branch=master
+    :target: https://travis-ci.org/creafz/django-paginated-modelformset
+
+.. image:: https://coveralls.io/repos/creafz/django-paginated-modelformset/badge.png?branch=master
+    :target: https://coveralls.io/r/creafz/django-paginated-modelformset?branch=master
+
 An attempt to add pagination to Django Model Formsets.
 
 Requirements
