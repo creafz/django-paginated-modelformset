@@ -23,7 +23,7 @@ setup(
     packages=['paginated_modelformset'],
     include_package_data=True,
     license='MIT License',
-    description='',
+    description='An attempt to add pagination to Django Model Formsets.',
     long_description=README,
     keywords='django,form,formset,modelformset,pagination',
     url='https://github.com/creafz/django-paginated-modelformset',
