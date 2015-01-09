@@ -19,6 +19,12 @@ Requirements
 * Python 2.6+ or Python 3
 * Django 1.6+
 
+Installation
+------------
+Install from PyPI
+::
+    
+    pip install django-paginated-modelformset
 
 Usage
 -----
