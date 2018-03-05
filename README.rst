@@ -2,7 +2,7 @@
 django-paginated-modelformset
 =============================
 
-.. image:: https://pypip.in/version/django-paginated-modelformset/badge.svg
+.. image:: https://img.shields.io/pypi/v/django-paginated-modelformset.svg
     :target: https://pypi.python.org/pypi/django-paginated-modelformset/
     :alt: Latest Version
 
